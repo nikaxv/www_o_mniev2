@@ -1,1 +1,32 @@
+html {
+    box-sizing: border-box;
+}
 
+*,
+::before::after {
+    box-sizing: inherit;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font: 1em Courier New, monospace;
+}
+
+h2 {
+    color: rgb(53, 53, 53);
+    font: 1em Courier New, monospace;
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(101, 101, 101);
+    font: 1em Andale Mono, monospace;
+    font-size: 30px;
+}
+
+li {
+    color: rgb(101, 101, 101);
+    font: Andale Mono, monospace;
+    font-size: 15px;
+}
