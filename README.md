@@ -1,1 +1,1 @@
-.
+Strona o białych tygrysach
